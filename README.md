@@ -1,5 +1,5 @@
 # PetShop UI Clone
-I Cloned [Nigar Novruzova](https://dribbble.com/shots/19540807-Pet-shop-mobile-app-concept)'s awesome PetShop UI with flutter.
+I Cloned [Nigar Novruzova](https://dribbble.com/shots/19540807-Pet-shop-mobile-app-concept)'s awesome PetShop UI from dribbble with flutter.
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/114522498/204079080-81be202b-62fc-4283-83eb-f09de6c4840c.png)
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/114522498/204079083-05e61b7c-a9a8-417e-a0ee-c13ba4de8833.png)
