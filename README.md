@@ -1,28 +1,39 @@
-# PetShop UI Clone
-I Cloned [Nigar Novruzova](https://dribbble.com/shots/19540807-Pet-shop-mobile-app-concept)'s awesome PetShop UI from dribbble with flutter.
+# Pet Shop App
+
+**Pet Shop App** is a mobile application built using Flutter that features a user interface for browsing pet products. The app includes a search button for animals on the home screen, a list of animals by category, and a list of popular products. Although the product detail page exists, it is currently a static UI with no functional elements.
+
+## Features
+
+- **Animal Search**: A search button on the home screen to find specific animals.
+- **Animal Categories**: Displays a list of animals organized by category.
+- **Popular Products**: Showcases a list of popular pet products.
+- **Product Detail Page**: Provides a UI for product details, but it is not functional.
+
+## Design
+
+In this project, I cloned [Nigar Novruzova](https://dribbble.com/shots/19540807-Pet-shop-mobile-app-concept)'s awesome PetShop UI from Dribbble, focusing on creating a visually appealing interface.
+
+## Demo
+
+Here are some screenshots of the app:
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/114522498/204079080-81be202b-62fc-4283-83eb-f09de6c4840c.png)
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/114522498/204079083-05e61b7c-a9a8-417e-a0ee-c13ba4de8833.png)
 
- 
-# Icons I used:
-  - [Bird Icon](https://www.flaticon.com/free-icon/bird_616438?term=bird&page=1&position=7&page=1&position=7&related_id=616438&origin=search)
-  - [Dog Icon](https://www.flaticon.com/free-icon/dog_616408?term=dog&page=1&position=17&page=1&position=17&related_id=616408&origin=search)
-  - [Cat Icon](https://www.flaticon.com/free-icon/cat_616430?term=cat&page=1&position=11&page=1&position=11&related_id=616430&origin=search)
-  - [Fish Icon](https://www.flaticon.com/free-icon/clown-fish_3969791?term=fish&page=1&position=58&page=1&position=58&related_id=3969791&origin=search)
+## Technologies Used
 
-A new Flutter project.
+- **Flutter**: The app is built using Flutter for cross-platform development.
+- **Dart**: The programming language used for Flutter development.
 
-## Getting Started
+## Installation
 
+To run this project locally, follow these steps:
 
-This project is a starting point for a Flutter application.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/talhade/Pet-Shop-App.git
+2. **Open in Your IDE**:  
+   Open the project in your preferred IDE (such as Android Studio or VS Code).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Run the Project**:  
+   Use the command line or your IDE to run the project on an emulator or a physical device.
